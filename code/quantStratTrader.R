@@ -41,4 +41,4 @@ LongSeeker <- function(symbols, weights, rebalance_on = "years",
     }
 } 
 
-LongSeeker(c("XLP", "TLT"), c(.8, .6))
+LongSeeker(c("SPY", "VNQ"), c(.6, .4))
